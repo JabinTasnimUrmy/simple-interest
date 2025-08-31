@@ -29,7 +29,7 @@ chmod +x simple-interest.sh
 
 3. Run the script:
 ```
-./simple-interest.sh
+./simple-interest.sh  
 ```
 
 
