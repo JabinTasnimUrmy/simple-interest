@@ -3,11 +3,11 @@
 # Formula: SI = (Principal × Rate × Time) / 100
 
 # You can change these values as needed
-P=1000   # Principal
-R=5      # Rate of Interest
-T=2      # Time in years
+P = 1000   # Principal
+R = 5      # Rate of Interest
+T = 2      # Time in years
 
-SI=$(( (P * R * T) / 100 ))
+SI = $(( (P * R * T) / 100 ))
 
 echo "Principal: $P"
 echo "Rate: $R"
