@@ -12,4 +12,4 @@ SI=$(( (P * R * T) / 100 ))
 echo "Principal: $P"
 echo "Rate: $R"
 echo "Time: $T"
-echo "Simple Interest(No): $SI"
+echo "Simple Interest: $SI"
